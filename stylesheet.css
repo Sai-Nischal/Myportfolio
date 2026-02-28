@@ -19,7 +19,7 @@
       background: black;
   }
   ::-webkit-scrollbar-thumb {
-      background: yellow;
+      background: #f7df1e;
       border-radius: 12px;
       height: 10px;
       border-color:2px solid black;
@@ -27,7 +27,7 @@
       transition: all 0.3s ease;
   }
   ::-webkit-scrollbar-thumb:hover {
-      background: yellow;
+      background: #f7df1e;
       border-radius: 0%;
   }
   ::-webkit-scrollbar-button{
@@ -63,11 +63,11 @@
   }
   nav .navbar .logo a{
     font-weight: 500;
-    font-size: 35px;
+    font-size: 500px;
     color:black;
   }
   nav.sticky .navbar .logo a{
-    color: yellow;
+    color: #f7df1e;
   }
   nav .navbar .menu{
     display: flex;
@@ -78,7 +78,7 @@
     margin: 0 8px;
   }
   .navbar .menu a{
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 500;
     color: #0E2431;
     padding: 6px 0;
@@ -91,11 +91,11 @@
     transition: smooth 1s;
   }
   nav.sticky .menu a{
-    color: yellow;
+    color: #f7df1e;
   }
   nav.sticky .menu a:hover{
     font-size: 25px;
-    color: yellow;
+    color: #f7df1e;
   }
   
 
@@ -152,16 +152,16 @@
     border-radius: 6px;
     font-size: 25px;
     font-weight: 400;
-    background:yellow;
+    background:#f7df1e;
     color: black;
     cursor: pointer;
     border: 2px solid black;
     transition: all 0.4s ease;
   }
   .home .button button:hover{
-    border-radius: yellow 6px;
+    border-radius: #f7df1e 6px;
     background-color:black;
-    color: yellow;
+    color: #f7df1e;
   }
   
   /* About Section Styling */
@@ -237,7 +237,7 @@
     border-radius: 4px;
     font-size: 25px;
     font-weight: 400;
-    background: yellow;
+    background: #f7df1e;
     color: black;
     border: 2px solid black;
     cursor: pointer;
@@ -246,7 +246,7 @@
   section .button button:hover{
     border-color: black;
     background-color: black;
-    color: yellow;
+    color: #f7df1e;
   }
   
    /* My Skills CSS */
@@ -321,8 +321,8 @@
   }
   .services .boxes .box:hover{
     background: black;
-    color: yellow;
-    border-color: yellow;
+    color: #f7df1e;
+    border-color: #f7df1e;
 
   }
   .services .boxes .box .icon{
@@ -338,7 +338,7 @@
     transition: all 0.4s ease;
   }
   .boxes .box:hover .icon{
-    background-color: yellow;
+    background-color: #f7df1e;
     color: #4070f4;
   }
   .services .boxes .box:hover .topic,
@@ -348,11 +348,11 @@
   }
   .services .boxes .box:hover .topic,
   .services .boxes .box:hover p{
-    color: yellow;
+    color: #f7df1e;
   }
   /* Contact Me CSS */
   .contact{
-    background: yellow;
+    background: #f7df1e;
   }
   .contact .content{
     margin: 0 auto;
@@ -374,11 +374,11 @@
   footer .text span{
     font-size: 17px;
     font-weight: 400;
-    color: yellow;
+    color: #f7df1e;
   }
   footer .text span a{
     font-weight: 500;
-    color: yellow;
+    color: #f7df1e;
   }
   footer .text span a:hover{
     text-decoration: underline;
@@ -389,7 +389,7 @@
     bottom: 20px;
     right: 20px;
     color: black;
-    background: yellow;
+    background: #f7df1e;
     padding: 7px 12px;;
     font-size: 18px;
     border-radius: 6px;
@@ -456,7 +456,7 @@
       margin: 10px 0;
     }
     nav.sticky .menu a:hover{
-      color: yellow;
+      color: #f7df1e;
     }
     nav .navbar .media-icons{
       display: none;
