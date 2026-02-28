@@ -62,8 +62,8 @@
     margin: auto;
   }
   nav .navbar .logo a{
-    font-weight: 500;
-    font-size: 500px;
+    font-weight: 50;
+    font-size: 35px;
     color:black;
   }
   nav.sticky .navbar .logo a{
@@ -78,8 +78,8 @@
     margin: 0 8px;
   }
   .navbar .menu a{
-    font-size: 20px;
-    font-weight: 500;
+    font-size: 21px;
+    font-weight: 50;
     color: #0E2431;
     padding: 6px 0;
     transition: all 0.4s ease;
@@ -391,7 +391,7 @@
     color: black;
     background: #f7df1e;
     padding: 7px 12px;;
-    font-size: 18px;
+    font-size: 21px;
     border-radius: 6px;
     box-shadow: rgba(0, 0, 0, 0.15);
     display: none;
